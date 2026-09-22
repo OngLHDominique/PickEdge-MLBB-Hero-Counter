@@ -16,11 +16,11 @@
 </p>
 
 <p>
-  Mobile View
-  <img src="Mobile View.jpg" alt="PickEdge Phone View">
+  ## Mobile View
+  <img src="PickEdge-MLBB-Hero-Counter/Mobile View.png" alt="PickEdge Phone View">
 </p>
 
 <p>
-  Website View
-  <img src="Website View.jpg" alt="PickEdge Website View">
+  ## Website View
+  <img src="PickEdge-MLBB-Hero-Counter/Website View.jpg" alt="PickEdge Website View">
 </p>
