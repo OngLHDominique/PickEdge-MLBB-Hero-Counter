@@ -1,6 +1,7 @@
 # PickEdge-MLBB-Hero-Counter
 <p>
-  PickEdge - MLBB Hero Counter is a counter-pick tool for a game called Mobile Legends: Bang Bang. The goal is to allow players to utilise this during the ban-pick phase which is time sensitive, deciding which hero counters the enemy's picks is half strategy, half guesswork. PickEdge will eliminate the guesswork.
+  PickEdge - MLBB Hero Counter is a counter-pick tool for a game called Mobile Legends: Bang Bang.
+  The goal is to allow players to utilise this during the ban-pick phase which is time sensitive, deciding which hero counters the enemy's picks is half strategy, half guesswork. PickEdge will eliminate the guesswork.
 </p>
 
 <p>
@@ -15,12 +16,12 @@
   Check it out: <a href="https://pickedge-mlbbherocounter.netlify.app/">PickEdge - MLBB Hero Counter</a>
 </p>
 
+## Mobile View
 <p>
-  ## Mobile View
-  <img src="PickEdge-MLBB-Hero-Counter/Mobile View.png" alt="PickEdge Phone View">
+  <img src="PickEdge-MLBB-Hero-Counter/Images/mobile.png" alt="PickEdge Phone View">
 </p>
 
+## Website View
 <p>
-  ## Website View
-  <img src="PickEdge-MLBB-Hero-Counter/Website View.jpg" alt="PickEdge Website View">
+  <img src="PickEdge-MLBB-Hero-Counter/Images/website.jpg" alt="PickEdge Website View">
 </p>
