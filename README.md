@@ -1,2 +1,12 @@
 # PickEdge-MLBB-Hero-Counter
-PickEdge is a counter-pick tool for Mobile Legends: Bang Bang
+<p>
+  PickEdge is a counter-pick tool for a game called Mobile Legends: Bang Bang. The goal is to allow players to utilise this during the ban-pick phase which is time sensitive, deciding which hero counters the enemy's picks is half strategy, half guesswork. PickEdge will eliminate the guesswork.
+</p>
+
+<p>
+  The objective is to enable new players that are currently learning the game to be able to have fun and learn at the same time without stress.
+</p>
+
+<p>
+  Check it out: <a href="https://pickedge-mlbbherocounter.netlify.app/">PickEdge - MLBB Hero Counter</a>
+</p>
