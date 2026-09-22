@@ -8,5 +8,19 @@
 </p>
 
 <p>
+  PickEdge can be utilised on a variety of mobile devices and website!
+</p>
+
+<p>
   Check it out: <a href="https://pickedge-mlbbherocounter.netlify.app/">PickEdge - MLBB Hero Counter</a>
+</p>
+
+<p>
+  Mobile View
+  <img src="Mobile View.jpg" alt="PickEdge Phone View">
+</p>
+
+<p>
+  Website View
+  <img src="Website View.jpg" alt="PickEdge Website View">
 </p>
