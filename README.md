@@ -16,8 +16,8 @@
   Check it out: <a href="https://pickedge-mlbbherocounter.netlify.app/">PickEdge - MLBB Hero Counter</a>
 </p>
 
+## Website View
+[![PickEdge Website View](Images/website.png)](https://pickedge-mlbbherocounter.netlify.app/)
+
 ## Mobile View
 [![PickEdge Phone View](Images/mobile.png)](https://pickedge-mlbbherocounter.netlify.app/)
-
-## Website View
-[![PickEdge Website View](Images/website.jpg)](https://pickedge-mlbbherocounter.netlify.app/)
